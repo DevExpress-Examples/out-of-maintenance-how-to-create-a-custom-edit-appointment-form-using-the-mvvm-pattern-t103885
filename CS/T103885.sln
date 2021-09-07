@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
+# Visual Studio 2012
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVMSchedulerApplication", "MVVMSchedulerApplication\MVVMSchedulerApplication.csproj", "{D5BB86F7-14FA-4FEF-A836-9B8BD69CF1AD}"
